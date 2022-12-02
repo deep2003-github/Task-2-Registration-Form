@@ -1,2 +1,2 @@
 Registration-Form
-A validated registration form made uusing HTML,CSS,JS.
+A validated registration form made using HTML,CSS,JS.
